@@ -1,1 +1,1 @@
-# Polynomial-finder
+# Trigonometric-Finder
